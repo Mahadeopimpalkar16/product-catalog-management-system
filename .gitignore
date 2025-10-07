@@ -10,3 +10,9 @@
 /Product_Catalog_Management_System.API/.vs
 /Product_Catalog_Management_System.API/bin/Debug/net8.0
 /Product_Catalog_Management_System.API/obj
+/product_catalog_management.API/.vs/Product_Catalog_Management_System
+/product_catalog_management.API/bin/Debug/net8.0
+/product_catalog_management.API/obj/Debug/net8.0
+/product_catalog_management.API/obj
+/product_catalog_management.Tests/bin
+/product_catalog_management.Tests/obj

@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Product_Catalog_Management_System.API\ProductCatalog.API.csproj" />
+    <ProjectReference Include="..\product_catalog_management.API\product_catalog_management.API.csproj" />
   </ItemGroup>
 
   <ItemGroup>
