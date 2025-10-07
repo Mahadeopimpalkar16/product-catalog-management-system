@@ -5,3 +5,8 @@
 /.vs
 /backend/.vs
 /backend/obj
+/ProductCatalog.Tests/bin
+/ProductCatalog.Tests/obj
+/Product_Catalog_Management_System.API/.vs
+/Product_Catalog_Management_System.API/bin/Debug/net8.0
+/Product_Catalog_Management_System.API/obj
